@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1116 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard2" transform="matrix(1.04891,0,0,1.38182,-2740.47,-670.788)">
+        <rect x="2612.68" y="485.439" width="1063.34" height="317.847" style="fill:none;"/>
+        <g transform="matrix(3.97237,0,0,-3.01535,2289.87,-230.021)">
+            <path d="M177.353,-277.362L173.264,-280.35L166.502,-274.374L133.478,-297.333L130.333,-292.93L145.902,-282.394L145.902,-274.374L151.248,-274.374L151.248,-279.249L167.603,-267.612L177.353,-277.362Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,2288.37,-152.125)">
+            <path d="M144.391,-271.5L144.391,-266.153L137,-271.5L144.391,-271.5Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,2880.56,-152.125)">
+            <path d="M137,-271.5L137,-266.153L144.391,-271.5L137,-271.5Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,2282.46,-277.539)">
+            <path d="M166.478,-311.047L163.333,-306.487L218.058,-269.689L238.973,-284.471L238.973,-276.451L245.42,-276.451L245.42,-289.189L271.053,-307.43L267.908,-311.833L218.058,-276.451L166.478,-311.047Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,2260.59,-230.049)">
+            <path d="M260.833,-277.529L264.765,-280.831L271.684,-274.384L304.55,-297.5L307.538,-292.94L292.284,-282.561L292.284,-274.384L286.623,-274.384L286.623,-278.787L270.74,-267.464L260.833,-277.529Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,3112.67,628.642)">
+            <rect x="0" y="0" width="8" height="7" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,3152.39,628.642)">
+            <rect x="0" y="0" width="7" height="7" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,3152.39,658.795)">
+            <rect x="0" y="0" width="7" height="8" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,-3.01535,3112.67,658.795)">
+            <rect x="0" y="0" width="8" height="8" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.97237,0,0,3.01535,2294.36,423.598)">
+            <text x="127px" y="101px" style="font-family:'SegoeUI-Bold', 'Segoe UI', sans-serif;font-weight:700;font-size:12px;fill:white;">BUILDERS ARK D</text>
+            <text x="222.554px" y="101px" style="font-family:'SegoeUI-Bold', 'Segoe UI', sans-serif;font-weight:700;font-size:12px;fill:white;">E</text>
+            <text x="229.086px" y="101px" style="font-family:'SegoeUI-Bold', 'Segoe UI', sans-serif;font-weight:700;font-size:12px;fill:white;">VEL<tspan x="249.309px 258.407px " y="101px 101px ">OP</tspan>MENT</text>
+        </g>
+    </g>
+</svg>
