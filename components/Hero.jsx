@@ -5,16 +5,10 @@ import Link from "next/link";
 
 function Hero() {
   return (
-    <div
-      className="h-[75vh] relative bg-cover"
-      style={{
-        backgroundImage: "url('bg_home.jfif')",
-        backgroundRepeat: "no-repeat",
-        backgroundSize: "100%",
-      }}
-    >
-      <div className="bg-gray-500 mix-blend-multiply z-0 h-[75vh] absolute w-full"></div>
-      <div className="z-10 absolute md:top-[150px] top-[50px] left-[30px] md:left-[100px]">
+    <div className="h-[75vh] relative">
+      <img src="bg_home.jfif" className="object-cover absolute w-full h-full" />
+      <div className="bg-gray-500 z-0  mix-blend-multiply w-full h-full absolute"></div>
+      <div className="z-10 p-20 md:p-36 absolute w-full h-full">
         <h1 className="md:text-5xl text-3xl text-white mb-6 animate__animated animate__backInDown">
           Best at Commercial <br /> & Residential Construction
         </h1>
