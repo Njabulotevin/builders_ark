@@ -1,6 +1,7 @@
 import React from "react";
 import PageTitle from "../components/common/PageTitle";
 import Image from "next/image";
+import Head from "next/head";
 
 function About() {
   const about = "";
@@ -13,6 +14,15 @@ function About() {
   ];
   return (
     <div className="max-w-7xl mx-auto mb-12">
+      <Head>
+        <title>About</title>
+        <meta
+          name="description"
+          content="Builders Ark was established in 2014 by an enthusiastic entrepreneur,
+          George Bokaba. As an emerging contractor."
+        />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <PageTitle description="Our Story" title="Why Choose Us" />
 
       <div className="p-12">

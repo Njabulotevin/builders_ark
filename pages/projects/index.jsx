@@ -1,6 +1,7 @@
 import React from "react";
 import PageTitle from "../../components/common/PageTitle";
 import Link from "next/link";
+import Head from "next/head";
 
 function Index() {
   const projects = [
@@ -26,6 +27,15 @@ function Index() {
 
   return (
     <div className="max-w-7xl mx-auto mb-20">
+      <Head>
+        <title>Projects</title>
+        <meta
+          name="description"
+          content="Builders Ark was established in 2014 by an enthusiastic entrepreneur,
+          George Bokaba. As an emerging contractor."
+        />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <PageTitle description="Our work" title="Projects" />
       <div className="flex flex-wrap gap-12 px-6">
         {projects.map((item, i) => {
